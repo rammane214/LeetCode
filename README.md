@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/rammane214/LeetCode/tree/master/0175-combine-two-tables) |
+| [0511-game-play-analysis-i](https://github.com/rammane214/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/rammane214/LeetCode/tree/master/0595-big-countries) |
 | [0608-tree-node](https://github.com/rammane214/LeetCode/tree/master/0608-tree-node) |
 <!---LeetCode Topics End-->
