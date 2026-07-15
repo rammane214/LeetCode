@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rammane214/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rammane214/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/rammane214/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/rammane214/LeetCode/tree/master/1051-height-checker) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rammane214/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2418-sort-the-people](https://github.com/rammane214/LeetCode/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -87,5 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rammane214/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rammane214/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rammane214/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/rammane214/LeetCode/tree/master/1051-height-checker) |
 | [2418-sort-the-people](https://github.com/rammane214/LeetCode/tree/master/2418-sort-the-people) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/rammane214/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
