@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rammane214/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rammane214/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rammane214/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0912-sort-an-array](https://github.com/rammane214/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rammane214/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rammane214/LeetCode/tree/master/1051-height-checker) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rammane214/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -88,15 +89,37 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/rammane214/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rammane214/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/rammane214/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rammane214/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rammane214/LeetCode/tree/master/1051-height-checker) |
 | [2418-sort-the-people](https://github.com/rammane214/LeetCode/tree/master/2418-sort-the-people) |
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/rammane214/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/rammane214/LeetCode/tree/master/1051-height-checker) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rammane214/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rammane214/LeetCode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rammane214/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rammane214/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rammane214/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rammane214/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
