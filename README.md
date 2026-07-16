@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rammane214/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rammane214/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rammane214/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/rammane214/LeetCode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/rammane214/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rammane214/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rammane214/LeetCode/tree/master/1051-height-checker) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/rammane214/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/rammane214/LeetCode/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
