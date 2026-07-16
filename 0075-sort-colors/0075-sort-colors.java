@@ -1,23 +1,41 @@
 class Solution {
+
     public void sortColors(int[] nums) {
-        for(int i =0; i< nums.length -1; i++){
-            for(int j = 0; j<nums.length -i -1; j++){
-                if(nums[j]>nums[j+1]){
-                    //swap
-                    int temp = nums[j];
-                    nums[j] = nums[j+1];
-                    nums[j+1] = temp;
-                }
-            }
-        }
-        
+        quickSort(nums, 0, nums.length - 1);
     }
-     public static void main(String[] args){
-            int nums[] = {2,0,2,1,1,0};
-            Solution obj = new Solution();
-            obj.sortColors(nums);
-            for(int i =0; i<nums.length; i++){
-                System.out.println(nums[i]);
+
+    private void quickSort(int[] arr, int low, int high) {
+
+        if (low < high) {
+
+            int pivot = partition(arr, low, high);
+
+            quickSort(arr, low, pivot - 1);
+            quickSort(arr, pivot + 1, high);
+        }
+    }
+
+    private int partition(int[] arr, int low, int high) {
+
+        int pivot = arr[high];
+        int i = low - 1;
+
+        for (int j = low; j < high; j++) {
+
+            if (arr[j] <= pivot) {
+
+                i++;
+
+                int temp = arr[i];
+                arr[i] = arr[j];
+                arr[j] = temp;
             }
         }
+
+        int temp = arr[i + 1];
+        arr[i + 1] = arr[high];
+        arr[high] = temp;
+
+        return i + 1;
+    }
 }
