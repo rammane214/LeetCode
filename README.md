@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rammane214/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rammane214/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rammane214/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/rammane214/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rammane214/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rammane214/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rammane214/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rammane214/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rammane214/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rammane214/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/rammane214/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rammane214/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rammane214/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rammane214/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/rammane214/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rammane214/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rammane214/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rammane214/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/rammane214/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rammane214/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/rammane214/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/rammane214/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
