@@ -1,20 +1,20 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-         int[] result = new int[nums.length];
-         //prefix
-         int prefix = 1;
-         int suffix =1;
-
-         for(int i = 0; i<nums.length; i++){
+          int[] result = new int[nums.length];
+          int prefix =1;
+          int suffix =1;
+          //prefix
+          for(int i =0; i<nums.length; i++){
             result[i] = prefix;
             prefix = prefix*nums[i];
-         }
+          }
 
-         //suffix
-         for(int i = nums.length -1; i>=0; i--){
-            result[i] = result[i]*suffix;
-            suffix = suffix*nums[i];
-         }
-         return result;
+
+          //suffix
+          for(int i = nums.length -1; i>=0; i--){
+            result[i] = result[i]* suffix;
+            suffix = suffix * nums[i];
+          }
+          return result;
      }
 }
