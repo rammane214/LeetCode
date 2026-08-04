@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rammane214/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/rammane214/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/rammane214/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rammane214/LeetCode/tree/master/0326-power-of-three) |
