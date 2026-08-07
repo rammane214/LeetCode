@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rammane214/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rammane214/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rammane214/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/rammane214/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/rammane214/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rammane214/LeetCode/tree/master/0283-move-zeroes) |
 | [0622-design-circular-queue](https://github.com/rammane214/LeetCode/tree/master/0622-design-circular-queue) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rammane214/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/rammane214/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rammane214/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/rammane214/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rammane214/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rammane214/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rammane214/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rammane214/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/rammane214/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/rammane214/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rammane214/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rammane214/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/rammane214/LeetCode/tree/master/0509-fibonacci-number) |
