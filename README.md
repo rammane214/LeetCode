@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rammane214/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rammane214/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rammane214/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/rammane214/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rammane214/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/rammane214/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rammane214/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rammane214/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rammane214/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rammane214/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/rammane214/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/rammane214/LeetCode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rammane214/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/rammane214/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rammane214/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/rammane214/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rammane214/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rammane214/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2418-sort-the-people](https://github.com/rammane214/LeetCode/tree/master/2418-sort-the-people) |
