@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rammane214/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rammane214/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/rammane214/LeetCode/tree/master/1051-height-checker) |
+| [1140-stone-game-ii](https://github.com/rammane214/LeetCode/tree/master/1140-stone-game-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rammane214/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rammane214/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/rammane214/LeetCode/tree/master/2418-sort-the-people) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rammane214/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/rammane214/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/rammane214/LeetCode/tree/master/0509-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/rammane214/LeetCode/tree/master/1140-stone-game-ii) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rammane214/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/rammane214/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rammane214/LeetCode/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/rammane214/LeetCode/tree/master/1140-stone-game-ii) |
 ## Math
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rammane214/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/rammane214/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rammane214/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/rammane214/LeetCode/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rammane214/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rammane214/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
@@ -359,4 +363,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rammane214/LeetCode/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/rammane214/LeetCode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/rammane214/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/rammane214/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
