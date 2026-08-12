@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rammane214/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rammane214/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/rammane214/LeetCode/tree/master/2418-sort-the-people) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rammane214/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rammane214/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rammane214/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rammane214/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rammane214/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [2418-sort-the-people](https://github.com/rammane214/LeetCode/tree/master/2418-sort-the-people) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rammane214/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rammane214/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rammane214/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/rammane214/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rammane214/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rammane214/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rammane214/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Database
 |  |
 | ------- |
