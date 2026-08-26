@@ -13,7 +13,6 @@ class Solution {
             left++;
             right--;
         }
-
         return true;
     }
 }
