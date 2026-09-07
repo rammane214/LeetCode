@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rammane214/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rammane214/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/rammane214/LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/rammane214/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/rammane214/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rammane214/LeetCode/tree/master/0169-majority-element) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rammane214/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/rammane214/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/rammane214/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rammane214/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/rammane214/LeetCode/tree/master/0125-valid-palindrome) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rammane214/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/rammane214/LeetCode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/rammane214/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rammane214/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rammane214/LeetCode/tree/master/0231-power-of-two) |
