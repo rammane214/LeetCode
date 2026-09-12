@@ -13,14 +13,24 @@
  *     }
  * }
  */
-class Solution {
-    public int maxDepth(TreeNode root) {
-       if(root == null){
-        return 0;
-       }
+// class Solution {
+//     public int maxDepth(TreeNode root) {
+//        if(root == null){
+//         return 0;
+//        }
 
-       int left = maxDepth(root.left);
-       int right = maxDepth(root.right);
-       return 1+ Math.max(left, right);
+//        int left = maxDepth(root.left);
+//        int right = maxDepth(root.right);
+//        return 1+ Math.max(left, right);
+//     }
+// }
+
+class Solution{
+    public int maxDepth(TreeNode root){
+        if(root == null){
+            return 0;
+        }
+
+        return 1+ Math.max(maxDepth(root.left) , maxDepth(root.right));
     }
 }
