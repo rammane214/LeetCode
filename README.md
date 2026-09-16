@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rammane214/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rammane214/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/rammane214/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/rammane214/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rammane214/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rammane214/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/rammane214/LeetCode/tree/master/0066-plus-one) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/rammane214/LeetCode/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/rammane214/LeetCode/tree/master/0113-path-sum-ii) |
 ## Enumeration
 |  |
@@ -462,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rammane214/LeetCode/tree/master/0412-fizz-buzz) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rammane214/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
